@@ -1,0 +1,1 @@
+picrust2_pipeline.py -s dada2_rep_seqs.fasta -i dada2_table_rar_20504.biom -o picrust2_out_pipeline -p 1
