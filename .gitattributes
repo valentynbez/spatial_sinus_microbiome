@@ -1,1 +1,2 @@
 .qza filter=lfs diff=lfs merge=lfs -text
+microbiome-analysis[[:space:]]/artifacts/silva-138-ssu-nr99-reg-of-int-classifier.qza filter=lfs diff=lfs merge=lfs -text
